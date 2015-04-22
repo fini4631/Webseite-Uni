@@ -1,0 +1,21 @@
+h1{
+    color: #fff;
+    background-color: #0026ff;
+    font-family: Calibri ;
+    text-align: center;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+   
+}
+article{
+    text-align: center;
+    line-height: 30px;
+    
+}
+
+
+footer {
+    color: #808080;
+    background-color: #e6e6e6;
+    margin-top: 200px;
+}
