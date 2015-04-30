@@ -1,4 +1,3 @@
-
 body{
     background-color: #d6d5d5;
 }
@@ -21,9 +20,7 @@ h1{
   background-color: #fff;
 }
 article{
-    text-align: center;
-    line-height: 30px;
-    
+   margin-left: 10px;
 }
 
 
@@ -35,17 +32,13 @@ footer {
     margin-left: 10px;
 }
 
-
-a.link {
+a {
     display: block;
     text-decoration: none;
     color: #1833a0;
     font-size: larger;
 }
-
-a.link:hover {
-    color: #1833a0;
+a:hover {
+    color: #808080;
     border-bottom: dotted #d6d5d5 thin;
-    margin-bottom: -1px;
-    background-color: #9197ff;
 }
